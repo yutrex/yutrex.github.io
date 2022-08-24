@@ -6,7 +6,7 @@
 
 | Project | Description | Notes | Compatible |
 | --- | --- | --- | --- |
-| Blox | Blox is an easy to use script for roblox. | In Progress | (https://x.synapse.to/)[Synapse X] |
+| Blox | Blox is an easy to use script for roblox. | In Progress | [Synapse X](https://x.synapse.to/) |
 
 ## Update Logs:
 
